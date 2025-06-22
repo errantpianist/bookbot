@@ -1,2 +1,3 @@
 # bookbot
-A little Python Project to analyse character counts in a book
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
